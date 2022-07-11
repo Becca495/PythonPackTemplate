@@ -24,9 +24,9 @@ sys.path.insert(0, os.path.abspath("../"))
 
 
 # -- Project information -----------------------------------------------------
-project = "TemplatePythonPackage"
+project = "PythonPackTemplate"
 copyright = f"2020–{datetime.datetime.now().year}"
-author = "Dominique Makowski"
+author = "Becca495"
 
 # The short X.Y version.
 def find_version():
@@ -106,7 +106,7 @@ html_theme = "sphinx_book_theme"
 
 # https://sphinx-book-theme.readthedocs.io/en/latest/customize/index.html
 html_theme_options = {
-    "repository_url": "https://github.com/RealityBending/TemplatePythonPackage",
+    "repository_url": "https://github.com/Becca495/PythonPackTemplate",
     "repository_branch": "main", 
     "use_repository_button": True,
     "use_issues_button": True,
